@@ -1,6 +1,8 @@
+![Screen Shot 2020-08-20 at 10 47 44 AM](https://user-images.githubusercontent.com/59614789/90787391-abb50c00-e2d2-11ea-8ccc-470eacb67d08.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Netflix with Movie Trailers
 
 In the project directory, you can run:
 
